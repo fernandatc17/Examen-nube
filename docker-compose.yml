@@ -6,5 +6,5 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - SUPABASE_URL=${SUPABASE_URL}
-      - SUPABASE_KEY=${SUPABASE_KEY}
+      - SUPABASE_URL= https://dqnuggtnlhnnzwmhmzxi.supabase.co
+      - SUPABASE_KEY= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRxbnVnZ3RubGhubnp3bWhtenhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQyNDk2NDMsImV4cCI6MjA1OTgyNTY0M30.HO1JsP6qoaMmFIST2nhqgOjLW4su4rnAdp1oixq6Bhk
